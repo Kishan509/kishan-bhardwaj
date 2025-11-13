@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Passport Photo Generator",
+  "description": "An application that uses AI to automatically convert a standard photo into a professional, passport-sized photograph with a neutral background.",
+  "requestFramePermissions": []
+}
